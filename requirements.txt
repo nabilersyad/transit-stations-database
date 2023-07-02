@@ -1,0 +1,9 @@
+python=3.9
+sqlite
+sqlalchemy
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+ipython-sql
