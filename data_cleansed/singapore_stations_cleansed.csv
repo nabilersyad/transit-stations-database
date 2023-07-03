@@ -1,0 +1,205 @@
+name,stop_id,latitude,longitude,line_colour,colour_hex_code,route_name,route_id,region
+Eunos MRT Station,EW7,1.319778952,103.9032339,Green,#009530,East West Line,EWL,Singapore
+Chinese Garden MRT Station,EW25,1.342352821,103.7326244,Green,#009530,East West Line,EWL,Singapore
+Khatib MRT Station,NS14,1.41738337,103.83298,Red,#dc241f,North South Line,NSL,Singapore
+Kranji MRT Station,NS7,1.425177699,103.7621874,Red,#dc241f,North South Line,NSL,Singapore
+Redhill MRT Station,EW18,1.289562726,103.8168209,Green,#009530,East West Line,EWL,Singapore
+Yew Tee MRT Station,NS5,1.397535018,103.7474307,Red,#dc241f,North South Line,NSL,Singapore
+Pioneer MRT Station,EW28,1.337586882,103.6973586,Green,#009530,East West Line,EWL,Singapore
+Commonwealth MRT Station,EW20,1.302438735,103.7983136,Green,#009530,East West Line,EWL,Singapore
+Paya Lebar MRT Station,EW8,1.318112082,103.8930446,Green,#009530,East West Line,EWL,Singapore
+Simei MRT Station,EW3,1.343202895,103.9533387,Green,#009530,East West Line,EWL,Singapore
+Tampines MRT Station,EW2,1.353301356,103.9451175,Green,#009530,East West Line,EWL,Singapore
+Admiralty MRT Station,NS10,1.440585001,103.8009982,Red,#dc241f,North South Line,NSL,Singapore
+Yishun MRT Station,NS13,1.429443081,103.8350045,Red,#dc241f,North South Line,NSL,Singapore
+Pasir Ris MRT Station,EW1,1.372983774,103.9492348,Green,#009530,East West Line,EWL,Singapore
+Clementi MRT Station,EW23,1.314954492,103.7653168,Green,#009530,East West Line,EWL,Singapore
+Aljunied MRT Station,EW9,1.316432612,103.882893,Green,#009530,East West Line,EWL,Singapore
+Expo MRT Station,CG1,1.334549778,103.9615134,Green,#009530,Changi Airport Branch Line,CAL,Singapore
+Choa Chu Kang MRT Station,NS4,1.385361693,103.744367,Red,#dc241f,North South Line,NSL,Singapore
+Jurong East MRT Station,EW24,1.33315262,103.7423112,Green,#009530,East West Line,EWL,Singapore
+Jurong East MRT Station,NS1,1.33315262,103.7423112,Red,#dc241f,North South Line,NSL,Singapore
+Queenstown MRT Station,EW19,1.294860933,103.8058913,Green,#009530,East West Line,EWL,Singapore
+Tuas Link MRT Station,EW33,1.340463766,103.6369324,Green,#009530,East West Line,EWL,Singapore
+Gul Circle MRT Station,EW30,1.319505215,103.6605988,Green,#009530,East West Line,EWL,Singapore
+Woodlands MRT Station,NS9,1.436875128,103.7864999,Red,#dc241f,North South Line,NSL,Singapore
+Tuas Crescent MRT Station,EW31,1.321026553,103.6491245,Green,#009530,East West Line,EWL,Singapore
+Kallang MRT Station,EW10,1.31148891,103.8713766,Green,#009530,East West Line,EWL,Singapore
+Tuas West Road MRT Station,EW32,1.329989089,103.6396662,Green,#009530,East West Line,EWL,Singapore
+Buona Vista MRT Station,EW21,1.307183467,103.7902028,Green,#009530,East West Line,EWL,Singapore
+Dover MRT Station,EW22,1.311405293,103.7786522,Green,#009530,East West Line,EWL,Singapore
+Sembawang MRT Station,NS11,1.449050821,103.8200504,Red,#dc241f,North South Line,NSL,Singapore
+Kembangan MRT Station,EW6,1.321038249,103.9129282,Green,#009530,East West Line,EWL,Singapore
+Bukit Batok MRT Station,NS2,1.349034109,103.74959,Red,#dc241f,North South Line,NSL,Singapore
+Ang Mo Kio MRT Station,NS16,1.369933175,103.8495535,Red,#dc241f,North South Line,NSL,Singapore
+Boon Lay MRT Station,EW27,1.338604054,103.7060994,Green,#009530,East West Line,EWL,Singapore
+Bukit Gombak MRT Station,NS3,1.358761857,103.7519164,Red,#dc241f,North South Line,NSL,Singapore
+Marsiling MRT Station,NS8,1.432514421,103.77409,Red,#dc241f,North South Line,NSL,Singapore
+Bedok MRT Station,EW5,1.323979969,103.9299587,Green,#009530,East West Line,EWL,Singapore
+Joo Koon MRT Station,EW29,1.327717173,103.6784167,Green,#009530,East West Line,EWL,Singapore
+Lakeside MRT Station,EW26,1.344259249,103.7209802,Green,#009530,East West Line,EWL,Singapore
+Tanah Merah MRT Station,EW4,1.327187135,103.9463161,Green,#009530,East West Line,EWL,Singapore
+Yio Chu Kang MRT Station,NS15,1.381756046,103.8449439,Red,#dc241f,North South Line,NSL,Singapore
+Oasis LRT Station,PE6,1.402286677,103.9127036,Grey,#748477,Punggol LRT,PL,Singapore
+Sam Kee LRT Station,PW1,1.409612685,103.9048099,Grey,#748477,Punggol LRT,PL,Singapore
+Farmway LRT Station,SW2,1.397170196,103.8892882,Grey,#748477,Sengkang LRT,SL,Singapore
+Kupang LRT Station,SW3,1.398212828,103.881242,Grey,#748477,Sengkang LRT,SL,Singapore
+Renjong LRT Station,SW8,1.386723922,103.8905227,Grey,#748477,Sengkang LRT,SL,Singapore
+Bukit Panjang LRT Station,BP6,1.377909898,103.763034,Grey,#0354a6,Bukit Panjang LRT,BPL,Singapore
+Fajar LRT Station,BP10,1.384520796,103.7708268,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Punggol LRT Station,PTC,1.405194701,103.9023911,Grey,#748477,Punggol LRT,PL,Singapore
+Samudera LRT Station,PW4,1.415901719,103.9021353,Grey,#748477,Punggol LRT,PL,Singapore
+Nibong LRT Station,PW5,1.411870458,103.9002935,Grey,#748477,Punggol LRT,PL,Singapore
+Soo Teck LRT Station,PW7,1.405088585,103.8971904,Grey,#748477,Punggol LRT,PL,Singapore
+Kadaloor LRT Station,PE5,1.399584853,103.9164619,Grey,#748477,Punggol LRT,PL,Singapore
+Coral Edge LRT Station,PE3,1.393909226,103.9125574,Grey,#748477,Punggol LRT,PL,Singapore
+Thanggam LRT Station,SW4,1.397318155,103.8756226,Grey,#748477,Sengkang LRT,SL,Singapore
+Keat Hong LRT Station,BP3,1.378602766,103.7490799,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Damai LRT Station,PE7,1.405234836,103.9085809,Grey,#748477,Punggol LRT,PL,Singapore
+Cove LRT Station,PE1,1.399281985,103.9059403,Grey,#748477,Punggol LRT,PL,Singapore
+Riviera LRT Station,PE4,1.394524496,103.9161415,Grey,#748477,Punggol LRT,PL,Singapore
+Senja LRT Station,BP13,1.382692296,103.7623879,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Jelapang LRT Station,BP12,1.386703025,103.7645235,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Petir LRT Station,BP7,1.377750334,103.7666882,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Teck Whye LRT Station,BP4,1.376684679,103.7537352,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Choa Chu Kang LRT Station,BP1,1.38483636,103.7445797,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+South View LRT Station,BP2,1.380298287,103.7453173,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Layar LRT Station,SW6,1.392079839,103.8800158,Grey,#748477,Sengkang LRT,SL,Singapore
+Kangkar LRT Station,SE4,1.383978902,103.9021539,Grey,#748477,Sengkang LRT,SL,Singapore
+Meridian LRT Station,PE2,1.396912053,103.9089277,Grey,#748477,Punggol LRT,PL,Singapore
+Cheng Lim LRT Station,SW1,1.396277631,103.8937792,Grey,#748477,Sengkang LRT,SL,Singapore
+Punggol Point LRT Station,PW3,1.41684852,103.9066284,Grey,#748477,Punggol LRT,PL,Singapore
+Sumang LRT Station,PW6,1.408452426,103.8985387,Grey,#748477,Punggol LRT,PL,Singapore
+Fernvale LRT Station,SW5,1.391885888,103.8762959,Grey,#748477,Sengkang LRT,SL,Singapore
+Tongkang LRT Station,SW7,1.389347953,103.8858287,Grey,#748477,Sengkang LRT,SL,Singapore
+Pending LRT Station,BP8,1.376142883,103.7712881,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Teck Lee LRT Station,PW2,1.412770894,103.9065554,Grey,#748477,Punggol LRT,PL,Singapore
+Bangkit LRT Station,BP9,1.380017897,103.7726667,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Bakau LRT Station,SE3,1.388092704,103.9054179,Grey,#748477,Sengkang LRT,SL,Singapore
+Rumbia LRT Station,SE2,1.391468497,103.9059522,Grey,#748477,Sengkang LRT,SL,Singapore
+Compassvale LRT Station,SE1,1.394493046,103.9004726,Grey,#748477,Sengkang LRT,SL,Singapore
+Ten Mile Junction LRT Station,BP14,1.380321008,103.760161,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Ranggung LRT Station,SE5,1.384233561,103.897176,Grey,#748477,Sengkang LRT,SL,Singapore
+Phoenix LRT Station,BP5,1.378618844,103.7580559,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Segar LRT Station,BP11,1.387772131,103.7696171,Grey,#748477,Bukit Panjang LRT,BPL,Singapore
+Sengkang LRT Station,STC,1.391609364,103.8954243,Grey,#748477,Sengkang LRT,SL,Singapore
+Bras Basah MRT Station,CC2,1.296861687,103.8506629,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Macpherson MRT Station,CC10,1.326345372,103.8902718,Yellow,#FF9A00,Circle Line,CCL,Singapore
+City Hall MRT Station,EW13,1.292936243,103.852581,Green,#009530,East West Line,EWL,Singapore
+City Hall MRT Station,NS25,1.292936243,103.852581,Red,#dc241f,North South Line,NSL,Singapore
+Tampines East MRT Station,DT33,1.356191483,103.9546005,Blue,#0354a6,Downtown Line,DTL,Singapore
+Tampines West MRT Station,DT31,1.345515305,103.938408,Blue,#0354a6,Downtown Line,DTL,Singapore
+Geylang Bahru MRT Station,DT24,1.321505838,103.8718904,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bendemeer MRT Station,DT23,1.313672233,103.8629702,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bencoolen MRT Station,DT21,1.29886427,103.8503799,Blue,#0354a6,Downtown Line,DTL,Singapore
+Harbourfront MRT Station,NE1,1.26547264,103.821446,Purple,#9016b2,North East Line,NEL,Singapore
+Harbourfront MRT Station,CC29,1.26547264,103.821446,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Promenade MRT Station,DT15,1.292891552,103.860846,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bugis MRT Station,DT14,1.299550746,103.8568623,Blue,#0354a6,Downtown Line,DTL,Singapore
+Kent Ridge MRT Station,CC24,1.293462633,103.7846438,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Macpherson MRT Station,DT26,1.326076883,103.8893356,Blue,#0354a6,Downtown Line,DTL,Singapore
+Punggol MRT Station,NE17,1.404546728,103.902052,Purple,#9016b2,North East Line,NEL,Singapore
+Tanjong Pagar MRT Station,EW15,1.276521247,103.8458611,Green,#009530,East West Line,EWL,Singapore
+One-North MRT Station,CC23,1.299759879,103.7874693,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Bishan MRT Station,CC15,1.35130868,103.84915,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Stadium MRT Station,CC6,1.30284063,103.8753395,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Bugis MRT Station,EW12,1.300465076,103.8557007,Green,#009530,East West Line,EWL,Singapore
+Somerset MRT Station,NS23,1.300260055,103.8390737,Red,#dc241f,North South Line,NSL,Singapore
+Orchard MRT Station,NS22,1.303981012,103.8322417,Red,#dc241f,North South Line,NSL,Singapore
+Jalan Besar MRT Station,DT22,1.305403642,103.8554713,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bayfront MRT Station,DT16,1.281873788,103.8590733,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bayfront MRT Station,CE1,1.281873788,103.8590733,Yellow,#FF9A00,Circle Line Extension,CCLe,Singapore
+Sengkang MRT Station,NE16,1.391694626,103.8954664,Purple,#9016b2,North East Line,NEL,Singapore
+Mountbatten MRT Station,CC7,1.306201905,103.8825153,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Kovan MRT Station,NE13,1.360179171,103.8850503,Purple,#9016b2,North East Line,NEL,Singapore
+Fort Canning MRT Station,DT20,1.292478928,103.8443255,Blue,#0354a6,Downtown Line,DTL,Singapore
+Farrer Road MRT Station,CC20,1.317510612,103.8075929,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Expo MRT Station,DT35,1.335382137,103.9623407,Blue,#0354a6,Downtown Line,DTL,Singapore
+Downtown MRT Station,DT17,1.27944619,103.8528356,Blue,#0354a6,Downtown Line,DTL,Singapore
+Buona Vista MRT Station,CC22,1.306491669,103.7906645,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Esplanade MRT Station,CC3,1.293321608,103.8554985,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Nicoll Highway MRT Station,CC5,1.299766835,103.8636292,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Caldecott MRT Station,CC17,1.337674508,103.8395281,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Marina Bay MRT Station,NS27,1.276427355,103.8545925,Red,#dc241f,North South Line,NSL,Singapore
+Marina Bay MRT Station,CE2,1.276150637,103.8550886,Yellow,#FF9A00,Circle Line Extension,CCLe,Singapore
+Labrador Park MRT Station,CC27,1.272332732,103.8029471,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Chinatown MRT Station,NE4,1.284359578,103.8434242,Purple,#9016b2,North East Line,NEL,Singapore
+Chinatown MRT Station,DT19,1.284748969,103.8444484,Blue,#0354a6,Downtown Line,DTL,Singapore
+Newton MRT Station,DT11,1.313607102,103.8378098,Blue,#0354a6,Downtown Line,DTL,Singapore
+Tan Kah Kee MRT Station,DT8,1.325883209,103.8073292,Blue,#0354a6,Downtown Line,DTL,Singapore
+Tiong Bahru MRT Station,EW17,1.286193393,103.827021,Green,#009530,East West Line,EWL,Singapore
+Hillview MRT Station,DT3,1.362344869,103.7674369,Blue,#0354a6,Downtown Line,DTL,Singapore
+King Albert Park MRT Station,DT6,1.335665121,103.7838201,Blue,#0354a6,Downtown Line,DTL,Singapore
+Mattar MRT Station,DT25,1.326876715,103.8832341,Blue,#0354a6,Downtown Line,DTL,Singapore
+Ubi MRT Station,DT27,1.329956826,103.8992348,Blue,#0354a6,Downtown Line,DTL,Singapore
+Beauty World MRT Station,DT5,1.341223176,103.77581,Blue,#0354a6,Downtown Line,DTL,Singapore
+Kaki Bukit MRT Station,DT28,1.334967302,103.9084393,Blue,#0354a6,Downtown Line,DTL,Singapore
+Tampines MRT Station,DT32,1.355077429,103.9430298,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bedok North MRT Station,DT29,1.334742117,103.9179554,Blue,#0354a6,Downtown Line,DTL,Singapore
+Dhoby Ghaut MRT Station,NS24,1.298701307,103.8461119,Red,#dc241f,North South Line,NSL,Singapore
+Serangoon MRT Station,CC13,1.350595256,103.8723572,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Woodleigh MRT Station,NE11,1.339190046,103.8708081,Purple,#9016b2,North East Line,NEL,Singapore
+Novena MRT Station,NS20,1.320440791,103.8438228,Red,#dc241f,North South Line,NSL,Singapore
+Serangoon MRT Station,NE12,1.349707875,103.8735637,Purple,#9016b2,North East Line,NEL,Singapore
+Bedok Reservoir MRT Station,DT30,1.33660783,103.9322077,Blue,#0354a6,Downtown Line,DTL,Singapore
+Marina South Pier MRT Station,NS28,1.271336711,103.8628525,Red,#dc241f,North South Line,NSL,Singapore
+Farrer Park MRT Station,NE8,1.31235984,103.8541717,Purple,#9016b2,North East Line,NEL,Singapore
+Paya Lebar MRT Station,CC9,1.317430268,103.8921633,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Bartley MRT Station,CC12,1.342828338,103.8797462,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Dakota MRT Station,CC8,1.30838264,103.888648,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Pasir Panjang MRT Station,CC26,1.276213523,103.7913607,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Outram Park MRT Station,NE3,1.28140498,103.839125,Purple,#9016b2,North East Line,NEL,Singapore
+Clarke Quay MRT Station,NE5,1.288386024,103.8465519,Purple,#9016b2,North East Line,NEL,Singapore
+Bishan MRT Station,NS17,1.350838988,103.8481398,Red,#dc241f,North South Line,NSL,Singapore
+Botanic Gardens MRT Station,DT9,1.322423979,103.8161362,Blue,#0354a6,Downtown Line,DTL,Singapore
+Marymount MRT Station,CC16,1.348707263,103.8394214,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Haw Par Villa MRT Station,CC25,1.282542157,103.7818234,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Lorong Chuan MRT Station,CC14,1.351612171,103.8641434,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Lavender MRT Station,EW11,1.30735702,103.8628215,Green,#009530,East West Line,EWL,Singapore
+Dhoby Ghaut MRT Station,NE6,1.299705459,103.8454851,Purple,#9016b2,North East Line,NEL,Singapore
+Dhoby Ghaut MRT Station,CC1,1.298842816,103.8462358,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Tai Seng MRT Station,CC11,1.335433322,103.88818,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Rochor MRT Station,DT13,1.306800025,103.8496427,Blue,#0354a6,Downtown Line,DTL,Singapore
+Little India MRT Station,DT12,1.303916484,103.8524167,Blue,#0354a6,Downtown Line,DTL,Singapore
+Little India MRT Station,NE7,1.307198223,103.8485807,Purple,#9016b2,North East Line,NEL,Singapore
+Stevens MRT Station,DT10,1.320065557,103.8260263,Blue,#0354a6,Downtown Line,DTL,Singapore
+Bukit Panjang MRT Station,DT1,1.379002117,103.7615559,Blue,#0354a6,Downtown Line,DTL,Singapore
+Cashew MRT Station,DT2,1.369369831,103.764714,Blue,#0354a6,Downtown Line,DTL,Singapore
+Sixth Avenue MRT Station,DT7,1.330786387,103.7972561,Blue,#0354a6,Downtown Line,DTL,Singapore
+Toa Payoh MRT Station,NS19,1.332628987,103.8474979,Red,#dc241f,North South Line,NSL,Singapore
+Woodlands South MRT Station,TE3,1.4272,103.7943,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Potong Pasir MRT Station,NE10,1.331379525,103.869046,Purple,#9016b2,North East Line,NEL,Singapore
+Hougang MRT Station,NE14,1.371292292,103.8923636,Purple,#9016b2,North East Line,NEL,Singapore
+Boon Keng MRT Station,NE9,1.319395706,103.861679,Purple,#9016b2,North East Line,NEL,Singapore
+Upper Changi MRT Station,DT34,1.341737484,103.9614367,Blue,#0354a6,Downtown Line,DTL,Singapore
+Changi Airport MRT Station,CG2,1.357314545,103.9883212,Green,#009530,Changi Airport Branch Line,CAL,Singapore
+Woodlands MRT Station,TE2,1.43594,103.78794,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Braddell MRT Station,NS18,1.340471684,103.8467942,Red,#dc241f,North South Line,NSL,Singapore
+Buangkok MRT Station,NE15,1.382877858,103.8931042,Purple,#9016b2,North East Line,NEL,Singapore
+Promenade MRT Station,CC4,1.293218051,103.8609921,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Botanic Gardens MRT Station,CC19,1.322110193,103.8149876,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Raffles Place MRT Station,EW14,1.284125611,103.8514572,Green,#009530,East West Line,EWL,Singapore
+Raffles Place MRT Station,NS26,1.284125611,103.8514572,Red,#dc241f,North South Line,NSL,Singapore
+Holland Village MRT Station,CC21,1.31183479,103.7962016,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Outram Park MRT Station,EW16,1.279764543,103.8395732,Green,#009530,East West Line,EWL,Singapore
+Telok Blangah MRT Station,CC28,1.270753211,103.8097544,Yellow,#FF9A00,Circle Line,CCL,Singapore
+Telok Ayer MRT Station,DT18,1.282289536,103.8482991,Blue,#0354a6,Downtown Line,DTL,Singapore
+Newton MRT Station,NS21,1.3123201,103.8379841,Red,#dc241f,North South Line,NSL,Singapore
+Woodlands MRT North Station,TE1,1.4485,103.7855,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Springleaf MRT Station,TE4,1.3981,103.8181,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Lentor MRT Station,TE5,1.3846,103.8367,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Mayflower MRT Station,TE6,1.372,103.8368,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Bright Hill MRT Station,TE7,1.3637,103.8335,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Upper Thomson MRT Station,TE8,1.35461,103.83253,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Caldecott MRT Station,TE9,1.3373,103.8396,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Stevens MRT Station,TE11,1.3199,103.8262,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Napier MRT Station,TE12,1.3066,103.819,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Orchard Boulevard MRT Station,TE13,1.3029,103.8235,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Orchard MRT Station,TE14,1.303,103.8314,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Great World MRT Station,TE15,1.2946,103.8336,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Havelock MRT Station,TE16,1.2885,103.8335,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Outram Park MRT Station,TE17,1.2804,103.8401,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Maxwell MRT Station,TE18,1.2806,103.844,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Shenton Way MRT Station,TE19,1.27754,103.85077,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Marina Bay MRT Station,TE20,1.27529,103.85481,Brown,#734538,Thomson-East Coast Line,TEL,Singapore
+Gardens By The Bay • Taman Di Pesisiran MRT Station,TE22,1.279,103.8678,Brown,#734538,Thomson-East Coast Line,TEL,Singapore

@@ -1,0 +1,3896 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-03T08:05:29Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1544031348",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7113737,
+          3.1459286
+        ]
+      },
+      "id": "node/1544031348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1631412559",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6049519,
+          3.1132222
+        ]
+      },
+      "id": "node/1631412559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2278515570",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.644077,
+          3.0506498
+        ]
+      },
+      "id": "node/2278515570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2686635178",
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991821,
+          3.1385646
+        ]
+      },
+      "id": "node/2686635178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3308608988",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7127175,
+          3.1587619
+        ]
+      },
+      "id": "node/3308608988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3308608989",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7125072,
+          3.1588091
+        ]
+      },
+      "id": "node/3308608989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4092013971",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6141298,
+          3.0222312
+        ]
+      },
+      "id": "node/4092013971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4400847336",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6989388,
+          3.1392105
+        ]
+      },
+      "id": "node/4400847336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4533242217",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.578194,
+          3.199222
+        ]
+      },
+      "id": "node/4533242217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4952299496",
+        "name": "Pintu B | Velodrom KL Jalan Cheras",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7290571,
+          3.1117149
+        ]
+      },
+      "id": "node/4952299496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4952299503",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7327199,
+          3.1046709
+        ]
+      },
+      "id": "node/4952299503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040821684",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7117293,
+          3.146919
+        ]
+      },
+      "id": "node/5040821684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040821685",
+        "name": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116779,
+          3.1471083
+        ]
+      },
+      "id": "node/5040821685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040821686",
+        "name": "F",
+        "railway": "subway_entrance",
+        "ref": "F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7110722,
+          3.1469708
+        ]
+      },
+      "id": "node/5040821686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040821688",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7099729,
+          3.1461865
+        ]
+      },
+      "id": "node/5040821688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5040821689",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7105645,
+          3.1459943
+        ]
+      },
+      "id": "node/5040821689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042521354",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7269761,
+          3.1253842
+        ]
+      },
+      "id": "node/5042521354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042521355",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7277502,
+          3.1242309
+        ]
+      },
+      "id": "node/5042521355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042521364",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7273764,
+          3.1238629
+        ]
+      },
+      "id": "node/5042521364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5042521365",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7269783,
+          3.1245224
+        ]
+      },
+      "id": "node/5042521365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043240641",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.702138,
+          3.142434
+        ]
+      },
+      "id": "node/5043240641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043240648",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7027996,
+          3.1416851
+        ]
+      },
+      "id": "node/5043240648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809566",
+        "level": "0",
+        "name": "Pintu B",
+        "name:en": "Entrance B",
+        "name:ms": "Pintu B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6955575,
+          3.1421773
+        ]
+      },
+      "id": "node/5044809566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809567",
+        "level": "0",
+        "name": "Pintu A",
+        "name:en": "Entrance A",
+        "name:ms": "Pintu A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6968069,
+          3.1424829
+        ]
+      },
+      "id": "node/5044809567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809568",
+        "destination": "Muzium Negara",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6876932,
+          3.1373932
+        ]
+      },
+      "id": "node/5044809568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809569",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6877598,
+          3.1369827
+        ]
+      },
+      "id": "node/5044809569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809580",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7229314,
+          3.1329233
+        ]
+      },
+      "id": "node/5044809580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809584",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.723198,
+          3.1320204
+        ]
+      },
+      "id": "node/5044809584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809585",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7198454,
+          3.1429773
+        ]
+      },
+      "id": "node/5044809585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5044809586",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7200141,
+          3.1425578
+        ]
+      },
+      "id": "node/5044809586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261439396",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5647253,
+          3.1701365
+        ]
+      },
+      "id": "node/5261439396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535528",
+        "name": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5787927,
+          3.1967103
+        ]
+      },
+      "id": "node/5261535528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535531",
+        "name": "C",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5776747,
+          3.198102
+        ]
+      },
+      "id": "node/5261535531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535537",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5651486,
+          3.1698737
+        ]
+      },
+      "id": "node/5261535537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535560",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.607848,
+          3.1559391
+        ]
+      },
+      "id": "node/5261535560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535561",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6082016,
+          3.1559331
+        ]
+      },
+      "id": "node/5261535561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535570",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6091179,
+          3.1548978
+        ]
+      },
+      "id": "node/5261535570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535576",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6091314,
+          3.1555885
+        ]
+      },
+      "id": "node/5261535576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5261535590",
+        "name": "BUCC Power House",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6188927,
+          3.1457012
+        ]
+      },
+      "id": "node/5261535590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5383383307",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6455336,
+          3.1037967
+        ]
+      },
+      "id": "node/5383383307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5385396790",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6656456,
+          3.1506493
+        ]
+      },
+      "id": "node/5385396790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5385396799",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6657104,
+          3.151504
+        ]
+      },
+      "id": "node/5385396799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5386930796",
+        "level": "0",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6954278,
+          3.1725154
+        ]
+      },
+      "id": "node/5386930796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5392028001",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7191447,
+          3.15986
+        ]
+      },
+      "id": "node/5392028001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085305",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7745994,
+          3.0483351
+        ]
+      },
+      "id": "node/5469085305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085306",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7742876,
+          3.0483404
+        ]
+      },
+      "id": "node/5469085306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085434",
+        "highway": "elevator",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7407913,
+          3.0911621
+        ]
+      },
+      "id": "node/5469085434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085436",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7402187,
+          3.0906021
+        ]
+      },
+      "id": "node/5469085436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085437",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7406003,
+          3.0914705
+        ]
+      },
+      "id": "node/5469085437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085483",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7730056,
+          3.0623535
+        ]
+      },
+      "id": "node/5469085483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085491",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7727877,
+          3.06117
+        ]
+      },
+      "id": "node/5469085491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085492",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7735523,
+          3.0616414
+        ]
+      },
+      "id": "node/5469085492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085624",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7709892,
+          3.0272459
+        ]
+      },
+      "id": "node/5469085624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085625",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7720253,
+          3.0273688
+        ]
+      },
+      "id": "node/5469085625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085628",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.783749,
+          3.0004592
+        ]
+      },
+      "id": "node/5469085628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085629",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7837971,
+          3.0013333
+        ]
+      },
+      "id": "node/5469085629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085630",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7859006,
+          2.9928751
+        ]
+      },
+      "id": "node/5469085630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085631",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7861107,
+          2.9944474
+        ]
+      },
+      "id": "node/5469085631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085632",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7862931,
+          2.9934309
+        ]
+      },
+      "id": "node/5469085632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085633",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7637348,
+          3.0716741
+        ]
+      },
+      "id": "node/5469085633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085640",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7460092,
+          3.0785733
+        ]
+      },
+      "id": "node/5469085640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085641",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7450245,
+          3.079458
+        ]
+      },
+      "id": "node/5469085641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085643",
+        "name": "Cheras Sentral",
+        "name:zh": "蕉赖中环",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7453938,
+          3.0784729
+        ]
+      },
+      "id": "node/5469085643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085650",
+        "name": "Pintu A | Taman Pertama Jalan 2/90",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7296842,
+          3.1118305
+        ]
+      },
+      "id": "node/5469085650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5469085653",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7731055,
+          3.0413224
+        ]
+      },
+      "id": "node/5469085653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484250431",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6625513,
+          3.1435532
+        ]
+      },
+      "id": "node/5484250431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484250432",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6631665,
+          3.1434524
+        ]
+      },
+      "id": "node/5484250432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484250466",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6429646,
+          3.1294463
+        ]
+      },
+      "id": "node/5484250466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484250467",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6427984,
+          3.1283689
+        ]
+      },
+      "id": "node/5484250467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484250474",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6312433,
+          3.1360369
+        ]
+      },
+      "id": "node/5484250474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484250475",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6302937,
+          3.1356637
+        ]
+      },
+      "id": "node/5484250475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484616509",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5936166,
+          3.1498921
+        ]
+      },
+      "id": "node/5484616509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484616510",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5935975,
+          3.1494285
+        ]
+      },
+      "id": "node/5484616510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484616643",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5793786,
+          3.1504398
+        ]
+      },
+      "id": "node/5484616643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5484616646",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5786349,
+          3.1499793
+        ]
+      },
+      "id": "node/5484616646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485710268",
+        "level": "0",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7184343,
+          3.1603959
+        ]
+      },
+      "id": "node/5485710268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485710278",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7066125,
+          3.1612899
+        ]
+      },
+      "id": "node/5485710278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5485710279",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7072844,
+          3.1615617
+        ]
+      },
+      "id": "node/5485710279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5486069126",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5901459,
+          3.0954324
+        ]
+      },
+      "id": "node/5486069126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5488029391",
+        "name": "1 Utama",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6183414,
+          3.1471418
+        ]
+      },
+      "id": "node/5488029391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5581685893",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7117341,
+          3.1460892
+        ]
+      },
+      "id": "node/5581685893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624757756",
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6956284,
+          3.1733467
+        ]
+      },
+      "id": "node/5624757756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624757758",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6958171,
+          3.1729825
+        ]
+      },
+      "id": "node/5624757758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5641420313",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6985721,
+          3.1591411
+        ]
+      },
+      "id": "node/5641420313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5724964836",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6985435,
+          3.1594271
+        ]
+      },
+      "id": "node/5724964836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5726983880",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.745813,
+          3.0773976
+        ]
+      },
+      "id": "node/5726983880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5858640711",
+        "name": "C",
+        "name:en": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116087,
+          3.1462184
+        ]
+      },
+      "id": "node/5858640711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5858640712",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.711317,
+          3.1461311
+        ]
+      },
+      "id": "node/5858640712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6162833429",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5820341,
+          3.0296234
+        ]
+      },
+      "id": "node/6162833429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6162845303",
+        "name": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.581271,
+          3.0295794
+        ]
+      },
+      "id": "node/6162845303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6375602764",
+        "name": "E",
+        "name:en": "E",
+        "name:zh": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7116602,
+          3.1460223
+        ]
+      },
+      "id": "node/6375602764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6575190638",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7080119,
+          3.0634977
+        ]
+      },
+      "id": "node/6575190638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782815005",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7057869,
+          3.1406982
+        ]
+      },
+      "id": "node/6782815005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6782815006",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7061612,
+          3.1410094
+        ]
+      },
+      "id": "node/6782815006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7042863007",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7061185,
+          3.140592
+        ]
+      },
+      "id": "node/7042863007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056476413",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6447464,
+          3.0509896
+        ]
+      },
+      "id": "node/7056476413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056476416",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6451619,
+          3.050308
+        ]
+      },
+      "id": "node/7056476416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056476417",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.644375,
+          3.0502361
+        ]
+      },
+      "id": "node/7056476417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056476419",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6449537,
+          3.0504795
+        ]
+      },
+      "id": "node/7056476419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7104299331",
+        "name": "AEON",
+        "railway": "subway_entrance",
+        "ref": "AEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7273717,
+          3.1251558
+        ]
+      },
+      "id": "node/7104299331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7150491826",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5862977,
+          3.0765187
+        ]
+      },
+      "id": "node/7150491826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7150491837",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5859436,
+          3.0756213
+        ]
+      },
+      "id": "node/7150491837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7259253706",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991072,
+          3.1590919
+        ]
+      },
+      "id": "node/7259253706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7299533782",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7319006,
+          3.1049728
+        ]
+      },
+      "id": "node/7299533782"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7308309728",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7726712,
+          3.0406991
+        ]
+      },
+      "id": "node/7308309728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7387995582",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7097169,
+          3.1430868
+        ]
+      },
+      "id": "node/7387995582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7387995584",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7098758,
+          3.142727
+        ]
+      },
+      "id": "node/7387995584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7702628710",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.79089,
+          2.9838212
+        ]
+      },
+      "id": "node/7702628710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7733651045",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6125364,
+          3.0162107
+        ]
+      },
+      "id": "node/7733651045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7733651046",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6128542,
+          3.0160515
+        ]
+      },
+      "id": "node/7733651046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8074913901",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5907454,
+          3.0961458
+        ]
+      },
+      "id": "node/8074913901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8711020731",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5859412,
+          3.0670668
+        ]
+      },
+      "id": "node/8711020731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221724469",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6558631,
+          3.2097348
+        ]
+      },
+      "id": "node/9221724469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221724470",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6559017,
+          3.2093868
+        ]
+      },
+      "id": "node/9221724470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221724471",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.648012,
+          3.2107181
+        ]
+      },
+      "id": "node/9221724471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221724474",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6083453,
+          3.1978429
+        ]
+      },
+      "id": "node/9221724474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221724475",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6080406,
+          3.1985341
+        ]
+      },
+      "id": "node/9221724475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9221724476",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5924942,
+          3.2000956
+        ]
+      },
+      "id": "node/9221724476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9229552290",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6208466,
+          3.1986159
+        ]
+      },
+      "id": "node/9229552290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9229552291",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6208793,
+          3.1983477
+        ]
+      },
+      "id": "node/9229552291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9229566390",
+        "name": "D",
+        "name:en": "D",
+        "name:ms": "D",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5925125,
+          3.1997354
+        ]
+      },
+      "id": "node/9229566390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9358657242",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5948556,
+          3.1500335
+        ]
+      },
+      "id": "node/9358657242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9361137458",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.612643,
+          3.1108192
+        ]
+      },
+      "id": "node/9361137458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9378300196",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6792866,
+          3.1939803
+        ]
+      },
+      "id": "node/9378300196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9378325928",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6797648,
+          3.1964629
+        ]
+      },
+      "id": "node/9378325928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9439800347",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7065497,
+          3.1406353
+        ]
+      },
+      "id": "node/9439800347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9504210024",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6909066,
+          3.1315206
+        ]
+      },
+      "id": "node/9504210024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9504210028",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6878032,
+          3.1328157
+        ]
+      },
+      "id": "node/9504210028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388055",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7094062,
+          3.1426296
+        ]
+      },
+      "id": "node/9508388055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388057",
+        "name": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7095249,
+          3.1425262
+        ]
+      },
+      "id": "node/9508388057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388060",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7094003,
+          3.1430137
+        ]
+      },
+      "id": "node/9508388060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388065",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7102446,
+          3.1509066
+        ]
+      },
+      "id": "node/9508388065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388066",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7105244,
+          3.1508352
+        ]
+      },
+      "id": "node/9508388066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388067",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7101502,
+          3.1506686
+        ]
+      },
+      "id": "node/9508388067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388068",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7045396,
+          3.1562731
+        ]
+      },
+      "id": "node/9508388068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388069",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7049268,
+          3.1563885
+        ]
+      },
+      "id": "node/9508388069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388070",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7050705,
+          3.155998
+        ]
+      },
+      "id": "node/9508388070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388071",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6991144,
+          3.1593744
+        ]
+      },
+      "id": "node/9508388071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388072",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6982849,
+          3.1669355
+        ]
+      },
+      "id": "node/9508388072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388077",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6989708,
+          3.1675364
+        ]
+      },
+      "id": "node/9508388077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9508388079",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6960765,
+          3.1730738
+        ]
+      },
+      "id": "node/9508388079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9646411432",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7087611,
+          3.0636527
+        ]
+      },
+      "id": "node/9646411432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9740843587",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6966656,
+          3.1495984
+        ]
+      },
+      "id": "node/9740843587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9774145253",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6755411,
+          3.2051788
+        ]
+      },
+      "id": "node/9774145253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849423415",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5804609,
+          3.2064203
+        ]
+      },
+      "id": "node/9849423415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849457821",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5809062,
+          3.2057282
+        ]
+      },
+      "id": "node/9849457821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849592637",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5923368,
+          3.2000096
+        ]
+      },
+      "id": "node/9849592637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849815460",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6396741,
+          3.2140816
+        ]
+      },
+      "id": "node/9849815460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849815463",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.655764,
+          3.208606
+        ]
+      },
+      "id": "node/9849815463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849815470",
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.666194,
+          3.2067994
+        ]
+      },
+      "id": "node/9849815470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9849815474",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.666548,
+          3.2054264
+        ]
+      },
+      "id": "node/9849815474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850359889",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.628585,
+          3.2079071
+        ]
+      },
+      "id": "node/9850359889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850375320",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6399277,
+          3.2144708
+        ]
+      },
+      "id": "node/9850375320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850375370",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6489325,
+          3.2113028
+        ]
+      },
+      "id": "node/9850375370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9850375371",
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6487012,
+          3.2112522
+        ]
+      },
+      "id": "node/9850375371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9853266686",
+        "level": "0",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.5723031,
+          3.1766755
+        ]
+      },
+      "id": "node/9853266686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9900002870",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7178503,
+          3.1616711
+        ]
+      },
+      "id": "node/9900002870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9909030875",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6045094,
+          3.1127417
+        ]
+      },
+      "id": "node/9909030875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913020228",
+        "destination": "Jalan Sultan Azlan Shah (Kuala Lumpur)",
+        "level": "0",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6844092,
+          3.1795286
+        ]
+      },
+      "id": "node/9913020228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913020229",
+        "destination": "Jalan Sultan Azlan Shah (Kepong)",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6851874,
+          3.1785215
+        ]
+      },
+      "id": "node/9913020229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913020238",
+        "destination": "Jalan Sultan Azlan Shah",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.681422,
+          3.1895909
+        ]
+      },
+      "id": "node/9913020238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913027336",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.695378,
+          3.1856051
+        ]
+      },
+      "id": "node/9913027336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9914411088",
+        "destination": "Jalan Utama",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7072341,
+          3.0285907
+        ]
+      },
+      "id": "node/9914411088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9914411090",
+        "destination": "Jalan Utama",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7047478,
+          3.0416764
+        ]
+      },
+      "id": "node/9914411090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9919591009",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6658468,
+          3.207186
+        ]
+      },
+      "id": "node/9919591009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9924537172",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.613442,
+          3.0227412
+        ]
+      },
+      "id": "node/9924537172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9924537173",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6871067,
+          3.0611094
+        ]
+      },
+      "id": "node/9924537173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9924537197",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.715929,
+          3.1288205
+        ]
+      },
+      "id": "node/9924537197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933445412",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7361181,
+          3.1760297
+        ]
+      },
+      "id": "node/9933445412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933445415",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7357293,
+          3.1758808
+        ]
+      },
+      "id": "node/9933445415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9933445416",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.735265,
+          3.1756716
+        ]
+      },
+      "id": "node/9933445416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9942835610",
+        "door": "no",
+        "entrance": "main",
+        "railway": "train_station_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.366719,
+          5.3936917
+        ]
+      },
+      "id": "node/9942835610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983121349",
+        "name": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6989191,
+          3.1594579
+        ]
+      },
+      "id": "node/9983121349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983121350",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6965409,
+          3.1491501
+        ]
+      },
+      "id": "node/9983121350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9983207462",
+        "name": "A",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6231592,
+          3.1048242
+        ]
+      },
+      "id": "node/9983207462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10211729864",
+        "destination": "Jalan OS (One South City)",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7057771,
+          3.0431699
+        ]
+      },
+      "id": "node/10211729864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10211729868",
+        "destination": "Jalan SP 2/4 (Taman Serdang Perdana)",
+        "level": "0",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7077539,
+          3.0295622
+        ]
+      },
+      "id": "node/10211729868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10216200615",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7183643,
+          3.1574126
+        ]
+      },
+      "id": "node/10216200615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10223843931",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7900849,
+          2.9829814
+        ]
+      },
+      "id": "node/10223843931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266244039",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.660675,
+          2.9835803
+        ]
+      },
+      "id": "node/10266244039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270864772",
+        "destination": "Jalan Pahang Barat",
+        "level": "1",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6958928,
+          3.1737287
+        ]
+      },
+      "id": "node/10270864772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270868702",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6972538,
+          3.1741978
+        ]
+      },
+      "id": "node/10270868702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270868726",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7006824,
+          3.1730906
+        ]
+      },
+      "id": "node/10270868726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270868727",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7023686,
+          3.1740579
+        ]
+      },
+      "id": "node/10270868727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10270868745",
+        "destination": "Jalan Tun Razak",
+        "level": "0",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7124702,
+          3.167741
+        ]
+      },
+      "id": "node/10270868745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271036579",
+        "destination": "Jalan Raja Muda Abdul Aziz",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7099059,
+          3.1677008
+        ]
+      },
+      "id": "node/10271036579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271036580",
+        "destination": "Jalan Raja Muda Abdul Aziz",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7097873,
+          3.1681411
+        ]
+      },
+      "id": "node/10271036580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271036605",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7181542,
+          3.1625464
+        ]
+      },
+      "id": "node/10271036605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271036965",
+        "destination": "Jalan Metro Pudu",
+        "level": "0",
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.714978,
+          3.1269192
+        ]
+      },
+      "id": "node/10271036965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271036984",
+        "destination": "Jalan Chan Sow Lin",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7165731,
+          3.1285816
+        ]
+      },
+      "id": "node/10271036984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271039830",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7181983,
+          3.150151
+        ]
+      },
+      "id": "node/10271039830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271039842",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7184289,
+          3.1517688
+        ]
+      },
+      "id": "node/10271039842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10271071855",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7161066,
+          3.1275982
+        ]
+      },
+      "id": "node/10271071855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594184537",
+        "destination": "Jalan Raya Satu (Balai Bomba Serdang)",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7090959,
+          3.0213387
+        ]
+      },
+      "id": "node/10594184537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10594184538",
+        "destination": "Jalan Raya Satu (Taman Kembang Sari)",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7087929,
+          3.0214876
+        ]
+      },
+      "id": "node/10594184538"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10611678880",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.706199,
+          3.0086059
+        ]
+      },
+      "id": "node/10611678880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10611678881",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.661231,
+          2.9833139
+        ]
+      },
+      "id": "node/10611678881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10611678882",
+        "destination": "Persiaran Sierra Utama",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6545593,
+          2.9650184
+        ]
+      },
+      "id": "node/10611678882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10658294223",
+        "destination": "Off Persiaran APEC",
+        "level": "0",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6653737,
+          2.9395168
+        ]
+      },
+      "id": "node/10658294223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660535048",
+        "destination": "Jalan Sultan Azlan Shah (Kompleks Mutiara)",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6806186,
+          3.1897855
+        ]
+      },
+      "id": "node/10660535048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10706850272",
+        "destination": "Jalan Putra Permai",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6724086,
+          2.9898661
+        ]
+      },
+      "id": "node/10706850272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10722980582",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6717395,
+          2.9317531
+        ]
+      },
+      "id": "node/10722980582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10723194529",
+        "destination": "Jalan PP 40",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6727608,
+          2.9891003
+        ]
+      },
+      "id": "node/10723194529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10727740945",
+        "destination": "Off Jalan 4/140",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6996604,
+          3.0771713
+        ]
+      },
+      "id": "node/10727740945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10727805627",
+        "destination": "Jalan Sultan Azlan Shah (Ke Arah Kepong)",
+        "level": "0",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6801389,
+          3.1905574
+        ]
+      },
+      "id": "node/10727805627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10795590948",
+        "level": "0",
+        "name": "Pintu A | Off Jalan Kuchai Lama",
+        "name:ms": "Pintu A | Off Jalan Kuchai Lama",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6938877,
+          3.0896471
+        ]
+      },
+      "id": "node/10795590948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10795657618",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6454638,
+          3.1038599
+        ]
+      },
+      "id": "node/10795657618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10796851698",
+        "level": "0",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7121408,
+          3.1347568
+        ]
+      },
+      "id": "node/10796851698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10800273158",
+        "level": "1",
+        "name": "Pintu C",
+        "name:en": "Entrance C",
+        "name:ms": "Pintu C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6955989,
+          3.1425051
+        ]
+      },
+      "id": "node/10800273158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10804709653",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6620724,
+          3.1146593
+        ]
+      },
+      "id": "node/10804709653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10804709680",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.662096,
+          3.1145737
+        ]
+      },
+      "id": "node/10804709680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10830050822",
+        "level": "2",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6877622,
+          3.1328275
+        ]
+      },
+      "id": "node/10830050822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10839997852",
+        "destination": "Off Persiaran APEC",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.657207,
+          2.9497119
+        ]
+      },
+      "id": "node/10839997852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10860751179",
+        "level": "0",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6952256,
+          3.1732229
+        ]
+      },
+      "id": "node/10860751179"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10864116957",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.7314751,
+          3.1651901
+        ]
+      },
+      "id": "node/10864116957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10949038882",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6808258,
+          3.2376063
+        ]
+      },
+      "id": "node/10949038882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10949038884",
+        "railway": "subway_entrance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6814387,
+          3.237779
+        ]
+      },
+      "id": "node/10949038884"
+    }
+  ]
+}

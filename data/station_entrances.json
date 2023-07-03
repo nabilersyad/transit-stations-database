@@ -1,0 +1,2597 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.60.6 e2dc3e5b",
+  "osm3s": {
+    "timestamp_osm_base": "2023-07-03T08:05:29Z",
+    "timestamp_areas_base": "2023-07-03T06:22:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1544031348,
+      "lat": 3.1459286,
+      "lon": 101.7113737,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1631412559,
+      "lat": 3.1132222,
+      "lon": 101.6049519,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2278515570,
+      "lat": 3.0506498,
+      "lon": 101.644077,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2686635178,
+      "lat": 3.1385646,
+      "lon": 101.6991821,
+      "tags": {
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3308608988,
+      "lat": 3.1587619,
+      "lon": 101.7127175,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3308608989,
+      "lat": 3.1588091,
+      "lon": 101.7125072,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4092013971,
+      "lat": 3.0222312,
+      "lon": 101.6141298,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4400847336,
+      "lat": 3.1392105,
+      "lon": 101.6989388,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4533242217,
+      "lat": 3.199222,
+      "lon": 101.578194,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4952299496,
+      "lat": 3.1117149,
+      "lon": 101.7290571,
+      "tags": {
+        "name": "Pintu B | Velodrom KL Jalan Cheras",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4952299503,
+      "lat": 3.1046709,
+      "lon": 101.7327199,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040821684,
+      "lat": 3.146919,
+      "lon": 101.7117293,
+      "tags": {
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040821685,
+      "lat": 3.1471083,
+      "lon": 101.7116779,
+      "tags": {
+        "name": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040821686,
+      "lat": 3.1469708,
+      "lon": 101.7110722,
+      "tags": {
+        "name": "F",
+        "railway": "subway_entrance",
+        "ref": "F"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040821688,
+      "lat": 3.1461865,
+      "lon": 101.7099729,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5040821689,
+      "lat": 3.1459943,
+      "lon": 101.7105645,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5042521354,
+      "lat": 3.1253842,
+      "lon": 101.7269761,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5042521355,
+      "lat": 3.1242309,
+      "lon": 101.7277502,
+      "tags": {
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5042521364,
+      "lat": 3.1238629,
+      "lon": 101.7273764,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5042521365,
+      "lat": 3.1245224,
+      "lon": 101.7269783,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5043240641,
+      "lat": 3.142434,
+      "lon": 101.702138,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5043240648,
+      "lat": 3.1416851,
+      "lon": 101.7027996,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809566,
+      "lat": 3.1421773,
+      "lon": 101.6955575,
+      "tags": {
+        "level": "0",
+        "name": "Pintu B",
+        "name:en": "Entrance B",
+        "name:ms": "Pintu B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809567,
+      "lat": 3.1424829,
+      "lon": 101.6968069,
+      "tags": {
+        "level": "0",
+        "name": "Pintu A",
+        "name:en": "Entrance A",
+        "name:ms": "Pintu A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809568,
+      "lat": 3.1373932,
+      "lon": 101.6876932,
+      "tags": {
+        "destination": "Muzium Negara",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809569,
+      "lat": 3.1369827,
+      "lon": 101.6877598,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809580,
+      "lat": 3.1329233,
+      "lon": 101.7229314,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809584,
+      "lat": 3.1320204,
+      "lon": 101.723198,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809585,
+      "lat": 3.1429773,
+      "lon": 101.7198454,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5044809586,
+      "lat": 3.1425578,
+      "lon": 101.7200141,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261439396,
+      "lat": 3.1701365,
+      "lon": 101.5647253,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535528,
+      "lat": 3.1967103,
+      "lon": 101.5787927,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535531,
+      "lat": 3.198102,
+      "lon": 101.5776747,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535537,
+      "lat": 3.1698737,
+      "lon": 101.5651486,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535560,
+      "lat": 3.1559391,
+      "lon": 101.607848,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535561,
+      "lat": 3.1559331,
+      "lon": 101.6082016,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535570,
+      "lat": 3.1548978,
+      "lon": 101.6091179,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535576,
+      "lat": 3.1555885,
+      "lon": 101.6091314,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5261535590,
+      "lat": 3.1457012,
+      "lon": 101.6188927,
+      "tags": {
+        "name": "BUCC Power House",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5383383307,
+      "lat": 3.1037967,
+      "lon": 101.6455336,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5385396790,
+      "lat": 3.1506493,
+      "lon": 101.6656456,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5385396799,
+      "lat": 3.151504,
+      "lon": 101.6657104,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5386930796,
+      "lat": 3.1725154,
+      "lon": 101.6954278,
+      "tags": {
+        "level": "0",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5392028001,
+      "lat": 3.15986,
+      "lon": 101.7191447,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085305,
+      "lat": 3.0483351,
+      "lon": 101.7745994,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085306,
+      "lat": 3.0483404,
+      "lon": 101.7742876,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085434,
+      "lat": 3.0911621,
+      "lon": 101.7407913,
+      "tags": {
+        "highway": "elevator",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085436,
+      "lat": 3.0906021,
+      "lon": 101.7402187,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085437,
+      "lat": 3.0914705,
+      "lon": 101.7406003,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085483,
+      "lat": 3.0623535,
+      "lon": 101.7730056,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085491,
+      "lat": 3.06117,
+      "lon": 101.7727877,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085492,
+      "lat": 3.0616414,
+      "lon": 101.7735523,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085624,
+      "lat": 3.0272459,
+      "lon": 101.7709892,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085625,
+      "lat": 3.0273688,
+      "lon": 101.7720253,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085628,
+      "lat": 3.0004592,
+      "lon": 101.783749,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085629,
+      "lat": 3.0013333,
+      "lon": 101.7837971,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085630,
+      "lat": 2.9928751,
+      "lon": 101.7859006,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085631,
+      "lat": 2.9944474,
+      "lon": 101.7861107,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085632,
+      "lat": 2.9934309,
+      "lon": 101.7862931,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085633,
+      "lat": 3.0716741,
+      "lon": 101.7637348,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085640,
+      "lat": 3.0785733,
+      "lon": 101.7460092,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085641,
+      "lat": 3.079458,
+      "lon": 101.7450245,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085643,
+      "lat": 3.0784729,
+      "lon": 101.7453938,
+      "tags": {
+        "name": "Cheras Sentral",
+        "name:zh": "蕉赖中环",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085650,
+      "lat": 3.1118305,
+      "lon": 101.7296842,
+      "tags": {
+        "name": "Pintu A | Taman Pertama Jalan 2/90",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5469085653,
+      "lat": 3.0413224,
+      "lon": 101.7731055,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484250431,
+      "lat": 3.1435532,
+      "lon": 101.6625513,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484250432,
+      "lat": 3.1434524,
+      "lon": 101.6631665,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484250466,
+      "lat": 3.1294463,
+      "lon": 101.6429646,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484250467,
+      "lat": 3.1283689,
+      "lon": 101.6427984,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484250474,
+      "lat": 3.1360369,
+      "lon": 101.6312433,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484250475,
+      "lat": 3.1356637,
+      "lon": 101.6302937,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484616509,
+      "lat": 3.1498921,
+      "lon": 101.5936166,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484616510,
+      "lat": 3.1494285,
+      "lon": 101.5935975,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484616643,
+      "lat": 3.1504398,
+      "lon": 101.5793786,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5484616646,
+      "lat": 3.1499793,
+      "lon": 101.5786349,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485710268,
+      "lat": 3.1603959,
+      "lon": 101.7184343,
+      "tags": {
+        "level": "0",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485710278,
+      "lat": 3.1612899,
+      "lon": 101.7066125,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5485710279,
+      "lat": 3.1615617,
+      "lon": 101.7072844,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5486069126,
+      "lat": 3.0954324,
+      "lon": 101.5901459,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5488029391,
+      "lat": 3.1471418,
+      "lon": 101.6183414,
+      "tags": {
+        "name": "1 Utama",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5581685893,
+      "lat": 3.1460892,
+      "lon": 101.7117341,
+      "tags": {
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5624757756,
+      "lat": 3.1733467,
+      "lon": 101.6956284,
+      "tags": {
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5624757758,
+      "lat": 3.1729825,
+      "lon": 101.6958171,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5641420313,
+      "lat": 3.1591411,
+      "lon": 101.6985721,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5724964836,
+      "lat": 3.1594271,
+      "lon": 101.6985435,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5726983880,
+      "lat": 3.0773976,
+      "lon": 101.745813,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5858640711,
+      "lat": 3.1462184,
+      "lon": 101.7116087,
+      "tags": {
+        "name": "C",
+        "name:en": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5858640712,
+      "lat": 3.1461311,
+      "lon": 101.711317,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6162833429,
+      "lat": 3.0296234,
+      "lon": 101.5820341,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6162845303,
+      "lat": 3.0295794,
+      "lon": 101.581271,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6375602764,
+      "lat": 3.1460223,
+      "lon": 101.7116602,
+      "tags": {
+        "name": "E",
+        "name:en": "E",
+        "name:zh": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6575190638,
+      "lat": 3.0634977,
+      "lon": 101.7080119,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6782815005,
+      "lat": 3.1406982,
+      "lon": 101.7057869,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6782815006,
+      "lat": 3.1410094,
+      "lon": 101.7061612,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7042863007,
+      "lat": 3.140592,
+      "lon": 101.7061185,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7056476413,
+      "lat": 3.0509896,
+      "lon": 101.6447464,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7056476416,
+      "lat": 3.050308,
+      "lon": 101.6451619,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7056476417,
+      "lat": 3.0502361,
+      "lon": 101.644375,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7056476419,
+      "lat": 3.0504795,
+      "lon": 101.6449537,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7104299331,
+      "lat": 3.1251558,
+      "lon": 101.7273717,
+      "tags": {
+        "name": "AEON",
+        "railway": "subway_entrance",
+        "ref": "AEON"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7150491826,
+      "lat": 3.0765187,
+      "lon": 101.5862977,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7150491837,
+      "lat": 3.0756213,
+      "lon": 101.5859436,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7259253706,
+      "lat": 3.1590919,
+      "lon": 101.6991072,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7299533782,
+      "lat": 3.1049728,
+      "lon": 101.7319006,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7308309728,
+      "lat": 3.0406991,
+      "lon": 101.7726712,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7387995582,
+      "lat": 3.1430868,
+      "lon": 101.7097169,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7387995584,
+      "lat": 3.142727,
+      "lon": 101.7098758,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7702628710,
+      "lat": 2.9838212,
+      "lon": 101.79089,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7733651045,
+      "lat": 3.0162107,
+      "lon": 101.6125364,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7733651046,
+      "lat": 3.0160515,
+      "lon": 101.6128542,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8074913901,
+      "lat": 3.0961458,
+      "lon": 101.5907454,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8711020731,
+      "lat": 3.0670668,
+      "lon": 101.5859412,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9221724469,
+      "lat": 3.2097348,
+      "lon": 101.6558631,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9221724470,
+      "lat": 3.2093868,
+      "lon": 101.6559017,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9221724471,
+      "lat": 3.2107181,
+      "lon": 101.648012,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9221724474,
+      "lat": 3.1978429,
+      "lon": 101.6083453,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9221724475,
+      "lat": 3.1985341,
+      "lon": 101.6080406,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9221724476,
+      "lat": 3.2000956,
+      "lon": 101.5924942,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9229552290,
+      "lat": 3.1986159,
+      "lon": 101.6208466,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9229552291,
+      "lat": 3.1983477,
+      "lon": 101.6208793,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9229566390,
+      "lat": 3.1997354,
+      "lon": 101.5925125,
+      "tags": {
+        "name": "D",
+        "name:en": "D",
+        "name:ms": "D",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9358657242,
+      "lat": 3.1500335,
+      "lon": 101.5948556,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9361137458,
+      "lat": 3.1108192,
+      "lon": 101.612643,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9378300196,
+      "lat": 3.1939803,
+      "lon": 101.6792866,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9378325928,
+      "lat": 3.1964629,
+      "lon": 101.6797648,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9439800347,
+      "lat": 3.1406353,
+      "lon": 101.7065497,
+      "tags": {
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9504210024,
+      "lat": 3.1315206,
+      "lon": 101.6909066,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9504210028,
+      "lat": 3.1328157,
+      "lon": 101.6878032,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388055,
+      "lat": 3.1426296,
+      "lon": 101.7094062,
+      "tags": {
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388057,
+      "lat": 3.1425262,
+      "lon": 101.7095249,
+      "tags": {
+        "name": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388060,
+      "lat": 3.1430137,
+      "lon": 101.7094003,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388065,
+      "lat": 3.1509066,
+      "lon": 101.7102446,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388066,
+      "lat": 3.1508352,
+      "lon": 101.7105244,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388067,
+      "lat": 3.1506686,
+      "lon": 101.7101502,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388068,
+      "lat": 3.1562731,
+      "lon": 101.7045396,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388069,
+      "lat": 3.1563885,
+      "lon": 101.7049268,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388070,
+      "lat": 3.155998,
+      "lon": 101.7050705,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388071,
+      "lat": 3.1593744,
+      "lon": 101.6991144,
+      "tags": {
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388072,
+      "lat": 3.1669355,
+      "lon": 101.6982849,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388077,
+      "lat": 3.1675364,
+      "lon": 101.6989708,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9508388079,
+      "lat": 3.1730738,
+      "lon": 101.6960765,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9646411432,
+      "lat": 3.0636527,
+      "lon": 101.7087611,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9740843587,
+      "lat": 3.1495984,
+      "lon": 101.6966656,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9774145253,
+      "lat": 3.2051788,
+      "lon": 101.6755411,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849423415,
+      "lat": 3.2064203,
+      "lon": 101.5804609,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849457821,
+      "lat": 3.2057282,
+      "lon": 101.5809062,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849592637,
+      "lat": 3.2000096,
+      "lon": 101.5923368,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849815460,
+      "lat": 3.2140816,
+      "lon": 101.6396741,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849815463,
+      "lat": 3.208606,
+      "lon": 101.655764,
+      "tags": {
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849815470,
+      "lat": 3.2067994,
+      "lon": 101.666194,
+      "tags": {
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9849815474,
+      "lat": 3.2054264,
+      "lon": 101.666548,
+      "tags": {
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9850359889,
+      "lat": 3.2079071,
+      "lon": 101.628585,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9850375320,
+      "lat": 3.2144708,
+      "lon": 101.6399277,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9850375370,
+      "lat": 3.2113028,
+      "lon": 101.6489325,
+      "tags": {
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9850375371,
+      "lat": 3.2112522,
+      "lon": 101.6487012,
+      "tags": {
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9853266686,
+      "lat": 3.1766755,
+      "lon": 101.5723031,
+      "tags": {
+        "level": "0",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9900002870,
+      "lat": 3.1616711,
+      "lon": 101.7178503,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9909030875,
+      "lat": 3.1127417,
+      "lon": 101.6045094,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9913020228,
+      "lat": 3.1795286,
+      "lon": 101.6844092,
+      "tags": {
+        "destination": "Jalan Sultan Azlan Shah (Kuala Lumpur)",
+        "level": "0",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9913020229,
+      "lat": 3.1785215,
+      "lon": 101.6851874,
+      "tags": {
+        "destination": "Jalan Sultan Azlan Shah (Kepong)",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9913020238,
+      "lat": 3.1895909,
+      "lon": 101.681422,
+      "tags": {
+        "destination": "Jalan Sultan Azlan Shah",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9913027336,
+      "lat": 3.1856051,
+      "lon": 101.695378,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9914411088,
+      "lat": 3.0285907,
+      "lon": 101.7072341,
+      "tags": {
+        "destination": "Jalan Utama",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9914411090,
+      "lat": 3.0416764,
+      "lon": 101.7047478,
+      "tags": {
+        "destination": "Jalan Utama",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9919591009,
+      "lat": 3.207186,
+      "lon": 101.6658468,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9924537172,
+      "lat": 3.0227412,
+      "lon": 101.613442,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9924537173,
+      "lat": 3.0611094,
+      "lon": 101.6871067,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9924537197,
+      "lat": 3.1288205,
+      "lon": 101.715929,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9933445412,
+      "lat": 3.1760297,
+      "lon": 101.7361181,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9933445415,
+      "lat": 3.1758808,
+      "lon": 101.7357293,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9933445416,
+      "lat": 3.1756716,
+      "lon": 101.735265,
+      "tags": {
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9942835610,
+      "lat": 5.3936917,
+      "lon": 100.366719,
+      "tags": {
+        "door": "no",
+        "entrance": "main",
+        "railway": "train_station_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9983121349,
+      "lat": 3.1594579,
+      "lon": 101.6989191,
+      "tags": {
+        "name": "E",
+        "railway": "subway_entrance",
+        "ref": "E"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9983121350,
+      "lat": 3.1491501,
+      "lon": 101.6965409,
+      "tags": {
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9983207462,
+      "lat": 3.1048242,
+      "lon": 101.6231592,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10211729864,
+      "lat": 3.0431699,
+      "lon": 101.7057771,
+      "tags": {
+        "destination": "Jalan OS (One South City)",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10211729868,
+      "lat": 3.0295622,
+      "lon": 101.7077539,
+      "tags": {
+        "destination": "Jalan SP 2/4 (Taman Serdang Perdana)",
+        "level": "0",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10216200615,
+      "lat": 3.1574126,
+      "lon": 101.7183643,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10223843931,
+      "lat": 2.9829814,
+      "lon": 101.7900849,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10266244039,
+      "lat": 2.9835803,
+      "lon": 101.660675,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10270864772,
+      "lat": 3.1737287,
+      "lon": 101.6958928,
+      "tags": {
+        "destination": "Jalan Pahang Barat",
+        "level": "1",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10270868702,
+      "lat": 3.1741978,
+      "lon": 101.6972538,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10270868726,
+      "lat": 3.1730906,
+      "lon": 101.7006824,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10270868727,
+      "lat": 3.1740579,
+      "lon": 101.7023686,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10270868745,
+      "lat": 3.167741,
+      "lon": 101.7124702,
+      "tags": {
+        "destination": "Jalan Tun Razak",
+        "level": "0",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271036579,
+      "lat": 3.1677008,
+      "lon": 101.7099059,
+      "tags": {
+        "destination": "Jalan Raja Muda Abdul Aziz",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271036580,
+      "lat": 3.1681411,
+      "lon": 101.7097873,
+      "tags": {
+        "destination": "Jalan Raja Muda Abdul Aziz",
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271036605,
+      "lat": 3.1625464,
+      "lon": 101.7181542,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271036965,
+      "lat": 3.1269192,
+      "lon": 101.714978,
+      "tags": {
+        "destination": "Jalan Metro Pudu",
+        "level": "0",
+        "name": "C",
+        "name:en": "C",
+        "name:ms": "C",
+        "name:zh": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271036984,
+      "lat": 3.1285816,
+      "lon": 101.7165731,
+      "tags": {
+        "destination": "Jalan Chan Sow Lin",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271039830,
+      "lat": 3.150151,
+      "lon": 101.7181983,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271039842,
+      "lat": 3.1517688,
+      "lon": 101.7184289,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10271071855,
+      "lat": 3.1275982,
+      "lon": 101.7161066,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10594184537,
+      "lat": 3.0213387,
+      "lon": 101.7090959,
+      "tags": {
+        "destination": "Jalan Raya Satu (Balai Bomba Serdang)",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10594184538,
+      "lat": 3.0214876,
+      "lon": 101.7087929,
+      "tags": {
+        "destination": "Jalan Raya Satu (Taman Kembang Sari)",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10611678880,
+      "lat": 3.0086059,
+      "lon": 101.706199,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10611678881,
+      "lat": 2.9833139,
+      "lon": 101.661231,
+      "tags": {
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10611678882,
+      "lat": 2.9650184,
+      "lon": 101.6545593,
+      "tags": {
+        "destination": "Persiaran Sierra Utama",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10658294223,
+      "lat": 2.9395168,
+      "lon": 101.6653737,
+      "tags": {
+        "destination": "Off Persiaran APEC",
+        "level": "0",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10660535048,
+      "lat": 3.1897855,
+      "lon": 101.6806186,
+      "tags": {
+        "destination": "Jalan Sultan Azlan Shah (Kompleks Mutiara)",
+        "level": "0",
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10706850272,
+      "lat": 2.9898661,
+      "lon": 101.6724086,
+      "tags": {
+        "destination": "Jalan Putra Permai",
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10722980582,
+      "lat": 2.9317531,
+      "lon": 101.6717395,
+      "tags": {
+        "level": "0",
+        "name": "B",
+        "name:en": "B",
+        "name:ms": "B",
+        "name:zh": "B",
+        "railway": "subway_entrance",
+        "ref": "B"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10723194529,
+      "lat": 2.9891003,
+      "lon": 101.6727608,
+      "tags": {
+        "destination": "Jalan PP 40",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10727740945,
+      "lat": 3.0771713,
+      "lon": 101.6996604,
+      "tags": {
+        "destination": "Off Jalan 4/140",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10727805627,
+      "lat": 3.1905574,
+      "lon": 101.6801389,
+      "tags": {
+        "destination": "Jalan Sultan Azlan Shah (Ke Arah Kepong)",
+        "level": "0",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10795590948,
+      "lat": 3.0896471,
+      "lon": 101.6938877,
+      "tags": {
+        "level": "0",
+        "name": "Pintu A | Off Jalan Kuchai Lama",
+        "name:ms": "Pintu A | Off Jalan Kuchai Lama",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10795657618,
+      "lat": 3.1038599,
+      "lon": 101.6454638,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10796851698,
+      "lat": 3.1347568,
+      "lon": 101.7121408,
+      "tags": {
+        "level": "0",
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10800273158,
+      "lat": 3.1425051,
+      "lon": 101.6955989,
+      "tags": {
+        "level": "1",
+        "name": "Pintu C",
+        "name:en": "Entrance C",
+        "name:ms": "Pintu C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10804709653,
+      "lat": 3.1146593,
+      "lon": 101.6620724,
+      "tags": {
+        "name": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10804709680,
+      "lat": 3.1145737,
+      "lon": 101.662096,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10830050822,
+      "lat": 3.1328275,
+      "lon": 101.6877622,
+      "tags": {
+        "level": "2",
+        "name": "C",
+        "railway": "subway_entrance",
+        "ref": "C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10839997852,
+      "lat": 2.9497119,
+      "lon": 101.657207,
+      "tags": {
+        "destination": "Off Persiaran APEC",
+        "level": "0",
+        "name": "A",
+        "name:en": "A",
+        "name:ms": "A",
+        "name:zh": "A",
+        "railway": "subway_entrance",
+        "ref": "A"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10860751179,
+      "lat": 3.1732229,
+      "lon": 101.6952256,
+      "tags": {
+        "level": "0",
+        "name": "D",
+        "railway": "subway_entrance",
+        "ref": "D"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10864116957,
+      "lat": 3.1651901,
+      "lon": 101.7314751,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10949038882,
+      "lat": 3.2376063,
+      "lon": 101.6808258,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10949038884,
+      "lat": 3.237779,
+      "lon": 101.6814387,
+      "tags": {
+        "railway": "subway_entrance"
+      }
+    }
+  ]
+}
