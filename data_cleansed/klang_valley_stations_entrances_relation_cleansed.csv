@@ -1,4 +1,4 @@
-Relationship ID,Entrance ID,Station Name,Station ID
+relationship_id,entrance_id,station_name,station_id
 0,10796851698,Pudu,AG10
 1,10796851698,Pudu,SP10
 2,5485710279,Kampung Baru,KJ11

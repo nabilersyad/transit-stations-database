@@ -1,4 +1,4 @@
-name,stop_id,latitude,longitude,line_colour,colour_hex_code,route_name,route_id,region
+name,station_id,latitude,longitude,line_colour,colour_hex_code,route_name,route_id,region
 Eunos MRT Station,EW7,1.319778952,103.9032339,Green,#009530,East West Line,EWL,Singapore
 Chinese Garden MRT Station,EW25,1.342352821,103.7326244,Green,#009530,East West Line,EWL,Singapore
 Khatib MRT Station,NS14,1.41738337,103.83298,Red,#dc241f,North South Line,NSL,Singapore

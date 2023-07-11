@@ -1,4 +1,4 @@
-name,odonym,namesake,opened,stop_id,latitude,longitude,route_name,line_colour,colour_hex_code,region
+name,odonym,namesake,opened,station_id,latitude,longitude,route_name,line_colour,colour_hex_code,region
 Angrignon,Boulevard Angrignon; Parc Angrignon,"Jean-Baptiste Angrignon, city councillor",03-09-1978,G1,45.446238,-73.60362,Green Line,Green,#5F8C55,Montreal
 Monk,Boulevard Monk,"James Monk, Quebec Attorney-General",03-09-1978,G2,45.451051,-73.5932,Green Line,Green,#5F8C55,Montreal
 Jolicoeur,Rue Jolicoeur,"Jean-Moïse Jolicoeur, parish priest",03-09-1978,G3,45.456914,-73.58206,Green Line,Green,#5F8C55,Montreal
