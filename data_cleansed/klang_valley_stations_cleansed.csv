@@ -1,4 +1,4 @@
-name,station_id,service_provider_name,latitude,longitude,route_id,route_name,line_number,line_colour,colour_hex_code,region
+name,station_code,service_provider_name,latitude,longitude,route_id,route_name,line_number,line_colour,colour_hex_code,region
 KL Sentral,KA01,Keretapi Tanah Melayu,3.134603,101.686567,KA,Seremban Line,1,Blue,#0000FF,Klang Valley
 Kuala Lumpur,KA02,Keretapi Tanah Melayu,3.1395126,101.6937889,KA,Seremban Line,1,Blue,#0000FF,Klang Valley
 Bank Negara,KA03,Keretapi Tanah Melayu,3.1545422,101.6930105,KA,Seremban Line,1,Blue,#0000FF,Klang Valley
