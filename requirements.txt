@@ -8,3 +8,10 @@ seaborn
 jupyter
 ipython-sql
 geopandas
+requests
+folium==0.12.1
+geopandas==0.12.2
+ipykernel==6.2.0
+openrouteservice==2.2.3
+plotly==4.12.0
+overpy==0.6
