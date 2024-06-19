@@ -3,6 +3,7 @@ import logging.handlers
 import os
 
 import requests
+from scripts import station_data_cleanse
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
@@ -25,10 +26,13 @@ except KeyError:
 
 
 if __name__ == "__main__":
+    
     logger.info(f"Token value: {SOME_SECRET}")
+    station_data_cleanse.run()    
+    logger.info("Running station data cleansing process")
 
-    r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
-    if r.status_code == 200:
-        data = r.json()
-        temperature = data["forecast"]["temp"]
-        logger.info(f'Weather in Berlin: {temperature}')
+    ##r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
+    ##if r.status_code == 200:
+    #    data = r.json()
+     #   temperature = data["forecast"]["temp"]
+     #   logger.info(f'Weather in Berlin: {temperature}')
