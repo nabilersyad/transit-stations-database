@@ -42,3 +42,8 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main 
+
+
+      - name: Force push changes (for debugging)
+        run: |
+          git push --force origin main
