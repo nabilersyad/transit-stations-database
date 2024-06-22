@@ -1,4 +1,3 @@
-sqlite
 sqlalchemy
 pandas
 numpy
