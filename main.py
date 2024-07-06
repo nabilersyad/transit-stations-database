@@ -5,6 +5,7 @@ import os
 import requests
 from scripts import station_data_cleanse
 from scripts import entrances_query
+from scripts import entrances_data_cleanse
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
@@ -29,9 +30,12 @@ except KeyError:
 if __name__ == "__main__":
     
     logger.info(f"Token value: {SOME_SECRET}")
-    station_data_cleanse.run()    
-    entrances_query.run()
     logger.info("Running station data cleansing process")
+    station_data_cleanse.run()    
+    logger.info("Running entrance data query process")
+    entrances_query.run()
+    logger.info("Running entrance data cleansing process")
+    entrances_data_cleanse.run()
 
     ##r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
     ##if r.status_code == 200:
