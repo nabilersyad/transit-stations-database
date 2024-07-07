@@ -7,6 +7,8 @@ from scripts import station_data_cleanse
 from scripts import entrances_query
 from scripts import entrances_data_cleanse
 from scripts import load_sql
+from scripts import load_supabase
+
 
 
 logger = logging.getLogger(__name__)
@@ -40,6 +42,8 @@ if __name__ == "__main__":
     entrances_data_cleanse.run()
     logger.info("Loading CSV data into SQLite")
     load_sql.run()
+    logger.info("Loading CSV data into Supabase")
+    load_supabase.run()
 
 
     ##r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
