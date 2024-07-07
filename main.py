@@ -26,12 +26,12 @@ logger.addHandler(logger_file_handler)
 
 try:
     #SOME_SECRET = os.environ["SOME_SECRET"]
-    url: str = os.environ("SUPABASE_URL")
-    key: str = os.environ("SUPABASE_KEY")
+    url: str = os.environ["SUPABASE_URL"]
+    key: str = os.environ["SUPABASE_KEY"]
 except KeyError:
     #SOME_SECRET = "Token not available!"
     url = "URL not available!"
-    key = "key"
+    key = "key not available"
     #logger.info("Token not available!")
     #raise
 
