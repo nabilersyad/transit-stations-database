@@ -7,6 +7,7 @@ jupyter
 ipython-sql
 geopandas
 requests
+supabase
 folium==0.12.1
 geopandas==0.12.2
 ipykernel==6.2.0
