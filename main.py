@@ -6,6 +6,8 @@ import requests
 from scripts import station_data_cleanse
 from scripts import entrances_query
 from scripts import entrances_data_cleanse
+from scripts import load_sql
+
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
@@ -36,6 +38,9 @@ if __name__ == "__main__":
     entrances_query.run()
     logger.info("Running entrance data cleansing process")
     entrances_data_cleanse.run()
+    logger.info("Loading CSV data into SQLite")
+    load_sql.run()
+
 
     ##r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')
     ##if r.status_code == 200:

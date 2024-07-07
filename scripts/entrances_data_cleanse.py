@@ -5,7 +5,7 @@ logger = logging.getLogger(__name__)
 
 
 def run():
-    logger.info("Querying entrance and station data in OSM")
+    logger.info("Cleanse entrance csv data")
 
     data_directory = 'data'
     entrances_file = 'klang_valley_entrances.csv'
