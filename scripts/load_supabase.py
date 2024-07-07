@@ -31,6 +31,10 @@ def run(url,key):
     # Combine all the dataframes
     stations_data_local = pd.concat([kl_data, montreal_data, singapore_data], axis=0, ignore_index=True)
 
+
+    #ensure NAs are in a posgres readable format
+    stations_data_local = stations_data_local.where(pd.notna(stations_data_local), None)
+
     stations_data_local.index.name = 'station_id'
     stations_data_local.to_csv(os.path.join(cleansed_data_directory, cleansed_combined_file), index=True)
 
