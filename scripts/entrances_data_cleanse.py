@@ -34,6 +34,11 @@ def run():
         'Station ID': 'station_code',
     })
 
+
+    # We would now normalize/standardize the column names of the dataframe to ensure consistency
+    entrances_data.columns = entrances_data.columns.str.lower().str.replace(' ', '_')
+    station_entrances_data.columns = station_entrances_data.columns.str.lower().str.replace(' ', '_')
+
     # Define the directory where you want to save the cleaned data
     cleansed_data_directory = 'data_cleansed'
     cleansed_entrances_file= 'klang_valley_entrances_cleansed.csv'

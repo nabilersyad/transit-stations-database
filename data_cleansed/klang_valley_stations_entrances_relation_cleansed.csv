@@ -1,4 +1,4 @@
-Relationship ID,Entrance ID,Station Name,Station Code
+relationship_id,entrance_id,station_name,station_code
 0,11435336038,Plaza Rakyat,AG8
 1,11435336038,Plaza Rakyat,SP8
 2,10796851698,Pudu,AG10
