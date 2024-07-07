@@ -89,7 +89,11 @@ def run(url,key):
     only_local_stations = only_local_stations.reset_index(drop=False)
 
     # For these rows, you want to insert into data_supabase
-    data, error = supabase.table('stations').insert(only_local_stations.to_dict('records')).execute()
+    # Check if DataFrame is empty
+    if not only_local_stations.empty:
+        data, error = supabase.table('stations').insert(only_local_stations.to_dict('records')).execute()
+    else:
+        print("No new rows to be inserted")
 
 
     # Case 4
@@ -175,7 +179,10 @@ def run(url,key):
     only_local = only_local.reset_index(drop=False)
 
     # For these rows, you want to insert into data_supabase
-    data, error = supabase.table('entrances').insert(only_local.to_dict('records')).execute()
+    if not only_local_station_entrances.empty:
+        data, error = supabase.table('station_entrances').insert(only_local_station_entrances.to_dict('records')).execute()
+    else:
+        print("No new rows to be inserted")
 
     # Case 4
     # Delete rows not in data_local but in data_supabase
@@ -257,8 +264,10 @@ def run(url,key):
     only_local_station_entrances = only_local_station_entrances.reset_index(drop=False)
 
     # For these rows, you want to insert into data_supabase
-    data, error = supabase.table('station_entrances').insert(only_local_station_entrances.to_dict('records')).execute()
-
+    if not only_local_station_entrances.empty:
+        data, error = supabase.table('station_entrances').insert(only_local_station_entrances.to_dict('records')).execute()
+    else:
+        print("No new rows to be inserted")
 
     # Case 4
     # Delete rows not in data_local but in data_supabase    only_supabase_station_entrances = merged_station_entrances_data[merged_station_entrances_data['_merge'] == 'right_only']
