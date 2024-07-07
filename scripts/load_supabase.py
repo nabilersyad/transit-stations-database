@@ -179,8 +179,8 @@ def run(url,key):
     only_local = only_local.reset_index(drop=False)
 
     # For these rows, you want to insert into data_supabase
-    if not only_local_station_entrances.empty:
-        data, error = supabase.table('station_entrances').insert(only_local_station_entrances.to_dict('records')).execute()
+    if not only_local.empty:
+        data, error = supabase.table('station_entrances').insert(only_local.to_dict('records')).execute()
     else:
         print("No new rows to be inserted")
 
@@ -270,7 +270,8 @@ def run(url,key):
         print("No new rows to be inserted")
 
     # Case 4
-    # Delete rows not in data_local but in data_supabase    only_supabase_station_entrances = merged_station_entrances_data[merged_station_entrances_data['_merge'] == 'right_only']
+    # Delete rows not in data_local but in data_supabase    
+    only_supabase_station_entrances = merged_station_entrances_data[merged_station_entrances_data['_merge'] == 'right_only']
     only_supabase_station_entrances = only_supabase_station_entrances.drop(columns=['_merge'])
 
     only_supabase_station_entrances = station_entrances_data_local.loc[only_supabase_station_entrances.index]
