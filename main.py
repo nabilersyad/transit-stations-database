@@ -1,6 +1,7 @@
 import logging
 import logging.handlers
 import os
+import supabase
 
 import requests
 from scripts import station_data_cleanse
