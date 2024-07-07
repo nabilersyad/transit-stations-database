@@ -25,16 +25,21 @@ logger_file_handler.setFormatter(formatter)
 logger.addHandler(logger_file_handler)
 
 try:
-    SOME_SECRET = os.environ["SOME_SECRET"]
+    #SOME_SECRET = os.environ["SOME_SECRET"]
+    url: str = os.environ("SUPABASE_URL")
+    key: str = os.environ("SUPABASE_KEY")
 except KeyError:
-    SOME_SECRET = "Token not available!"
+    #SOME_SECRET = "Token not available!"
+    url = "URL not available!"
+    key = "key"
     #logger.info("Token not available!")
     #raise
 
 
+
 if __name__ == "__main__":
     
-    logger.info(f"Token value: {SOME_SECRET}")
+    #logger.info(f"Token value: {SOME_SECRET}")
     logger.info("Running station data cleansing process")
     station_data_cleanse.run()    
     logger.info("Running entrance data query process")
@@ -44,7 +49,7 @@ if __name__ == "__main__":
     logger.info("Loading CSV data into SQLite")
     load_sql.run()
     logger.info("Loading CSV data into Supabase")
-    load_supabase.run()
+    load_supabase.run(url,key)
 
 
     ##r = requests.get('https://weather.talkpython.fm/api/weather/?city=Berlin&country=DE')

@@ -5,11 +5,11 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-def run():
+def run(url,key):
     logger.info("load data to Supabase")
     #declaring the supabase client we will working with
-    url: str = os.environ.get("SUPABASE_URL")
-    key: str = os.environ.get("SUPABASE_KEY")
+    #url: str = os.environ.get("SUPABASE_URL")
+    #key: str = os.environ.get("SUPABASE_KEY")
     supabase: Client = create_client(url, key)
 
 
