@@ -27,7 +27,9 @@ jobs:
           
       - name: execute py script # run main.py
         env:
-          SOME_SECRET: ${{ secrets.SOME_SECRET }}
+          SOME_SECRET: ${{ secrets.SUPABASE_URL }}
+          SOME_SECRET: ${{ secrets.SUPABASE_KEY }}
+
         run: python main.py
           
       - name: commit files
