@@ -263,22 +263,22 @@ station_id,name,station_code,service_provider_name,latitude,longitude,route_id,r
 261,Jolicoeur,G3,,45.456914,-73.58206,,Green Line,,Green,#5F8C55,Montreal,Rue Jolicoeur,"Jean-Moïse Jolicoeur, parish priest",03-09-1978
 262,Verdun,G4,,45.459359,-73.57183,,Green Line,,Green,#5F8C55,Montreal,Rue de Verdun; borough of Verdun,"Notre-Dame-de-Saverdun, France, hometown of Seigneur Zacharie Dupuis",03-09-1978
 263,De L'Église,G5,,45.462874,-73.56696,,Green Line,,Green,#5F8C55,Montreal,Avenue de l'Église,Église Saint-Paul,03-09-1978
-264,LaSalle,G6,,45.470906,-73.56614,,Green Line,,Green,#5F8C55,Montreal,Boulevard LaSalle,"Robert Cavelier de La Salle, French explorer, founder of Lachine",03-09-1978
+264,Lasalle,G6,,45.470906,-73.56614,,Green Line,,Green,#5F8C55,Montreal,Boulevard LaSalle,"Robert Cavelier de La Salle, French explorer, founder of Lachine",03-09-1978
 265,Charlevoix,G7,,45.478395,-73.56937,,Green Line,,Green,#5F8C55,Montreal,Rue Charlevoix,"Pierre François Xavier de Charlevoix, French historian and explorer",03-09-1978
 266,Lionel-Groulx,G8,,45.482757,-73.57993,,Green Line,,Green,#5F8C55,Montreal,Avenue Lionel-Groulx,"Fr. Lionel Groulx, Quebec historian",03-09-1978
 267,Atwater,G9,,45.489679,-73.58631,,Green Line,,Green,#5F8C55,Montreal,Avenue Atwater,"Edwin Atwater, city councillor",14-10-1966
 268,Guy–Concordia,G10,,45.495351,-73.57981,,Green Line,,Green,#5F8C55,Montreal,Rue Guy |Concordia University,"Étienne Guy, landowner |Concordia salus (Prosperity Through Concord), motto of Montreal",14-10-1966
 269,Peel,G11,,45.500564,-73.57502,,Green Line,,Green,#5F8C55,Montreal,Rue Peel,"Robert Peel, British Prime Minister",14-10-1966
-270,McGill,G12,,45.504069,-73.57153,,Green Line,,Green,#5F8C55,Montreal,McGill College Avenue; McGill University,"James McGill, Businessman",14-10-1966
-271,Place-des-Arts,G13,,45.508037,-73.56834,,Green Line,,Green,#5F8C55,Montreal,Place des Arts cultural complex,Place des Arts cultural complex,14-10-1966
+270,Mcgill,G12,,45.504069,-73.57153,,Green Line,,Green,#5F8C55,Montreal,McGill College Avenue; McGill University,"James McGill, Businessman",14-10-1966
+271,Place-Des-Arts,G13,,45.508037,-73.56834,,Green Line,,Green,#5F8C55,Montreal,Place des Arts cultural complex,Place des Arts cultural complex,14-10-1966
 272,Saint-Laurent,G14,,45.510924,-73.56482,,Green Line,,Green,#5F8C55,Montreal,Boulevard Saint-Laurent,So-called as the old road to Saint-Laurent,14-10-1966
-273,Berri–UQAM,G15,,45.514946,-73.56134,,Green Line,,Green,#5F8C55,Montreal,Rue Berri |Université du Québec à Montréal,"Simon Després dit Le Berry, land owner (1659) |Université du Québec à Montréal",14-10-1966
+273,Berri–Uqam,G15,,45.514946,-73.56134,,Green Line,,Green,#5F8C55,Montreal,Rue Berri |Université du Québec à Montréal,"Simon Després dit Le Berry, land owner (1659) |Université du Québec à Montréal",14-10-1966
 274,Beaudry,G18,,45.519546,-73.55719,,Green Line,,Green,#5F8C55,Montreal,Rue Beaudry,"Pierre Beaudry, landowner",21-12-1966
 275,Papineau,G16,,45.524049,-73.55294,,Green Line,,Green,#5F8C55,Montreal,Avenue Papineau,"Joseph Papineau, Quebec politician (father of Louis-Joseph Papineau)",14-10-1966
 276,Frontenac,G17,,45.532993,-73.55248,,Green Line,,Green,#5F8C55,Montreal,Rue Frontenac,"Louis de Buade de Frontenac, Governor General of New France",19-12-1966
 277,Préfontaine,G19,,45.541717,-73.55422,,Green Line,,Green,#5F8C55,Montreal,Rue Préfontaine; Parc Raymond-Préfontaine,"Raymond-Fournier Préfontaine, mayor of Montreal",06-06-1976
 278,Joliette,G20,,45.54689,-73.55113,,Green Line,,Green,#5F8C55,Montreal,Rue Joliette,"Barthélemy Joliette, founder of Joliette, Quebec",06-06-1976
-279,Pie-IX,G21,,45.5542,-73.5515,,Green Line,,Green,#5F8C55,Montreal,Boulevard Pie-IX,Pope Pius IX,06-06-1976
+279,Pie-Ix,G21,,45.5542,-73.5515,,Green Line,,Green,#5F8C55,Montreal,Boulevard Pie-IX,Pope Pius IX,06-06-1976
 280,Viau,G22,,45.561211,-73.54722,,Green Line,,Green,#5F8C55,Montreal,Rue Viau,"Charles-Théodore Viau, Quebec cookie magnate",06-06-1976
 281,Assomption,G23,,45.569165,-73.54721,,Green Line,,Green,#5F8C55,Montreal,Boulevard de l'Assomption,Dogma of the Assumption of Mary,06-06-1976
 282,Cadillac,G24,,45.576839,-73.54672,,Green Line,,Green,#5F8C55,Montreal,Rue de Cadillac,"Antoine Laumet de La Mothe, sieur de Cadillac, French explorer",06-06-1976
@@ -299,10 +299,10 @@ station_id,name,station_code,service_provider_name,latitude,longitude,route_id,r
 297,Georges-Vanier,O12,,45.488977,-73.57651,,Orange Line,,Orange,#D06D07,Montreal,Boulevard Georges-Vanier,"Georges Vanier, Governor General of Canada",28-04-1980
 298,Lucien-L'Allier,O13,,45.494993,-73.57097,,Orange Line,,Orange,#D06D07,Montreal,Rue Lucien-L'Allier,"Lucien L'Allier, Quebec engineer, designer of the Metro",28-04-1980
 299,Bonaventure,O14,,45.498269,-73.56709,,Orange Line,,Orange,#D06D07,Montreal,Place Bonaventure,"Gare Bonaventure, in turn for former Rue Bonaventure; St Bonaventure, Italian cleric",13-02-1967
-300,Square-Victoria–OACI,O15,,45.502033,-73.56312,,Orange Line,,Orange,#D06D07,Montreal,Square Victoria |International Civil Aviation Organization,Queen Victoria |Nearby headquarters of ICAO,06-02-1967
-301,Place-d'Armes,O16,,45.506063,-73.55976,,Orange Line,,Orange,#D06D07,Montreal,Place d'Armes,Historical rallying point for city's defenders,14-10-1966
-302,Champ-de-Mars,O17,,45.510082,-73.55642,,Orange Line,,Orange,#D06D07,Montreal,Champ de Mars Park,"Common term for military exercise ground (Mars, god of war)",14-10-1966
-303,Berri–UQAM,O18,,45.515757,-73.56178,,Orange Line,,Orange,#D06D07,Montreal,Rue Berri |Université du Québec à Montréal,"Simon Després dit Le Berry, land owner (1659) |Université du Québec à Montréal",14-10-1966
+300,Square-Victoria–Oaci,O15,,45.502033,-73.56312,,Orange Line,,Orange,#D06D07,Montreal,Square Victoria |International Civil Aviation Organization,Queen Victoria |Nearby headquarters of ICAO,06-02-1967
+301,Place-D'Armes,O16,,45.506063,-73.55976,,Orange Line,,Orange,#D06D07,Montreal,Place d'Armes,Historical rallying point for city's defenders,14-10-1966
+302,Champ-De-Mars,O17,,45.510082,-73.55642,,Orange Line,,Orange,#D06D07,Montreal,Champ de Mars Park,"Common term for military exercise ground (Mars, god of war)",14-10-1966
+303,Berri–Uqam,O18,,45.515757,-73.56178,,Orange Line,,Orange,#D06D07,Montreal,Rue Berri |Université du Québec à Montréal,"Simon Després dit Le Berry, land owner (1659) |Université du Québec à Montréal",14-10-1966
 304,Sherbrooke,O19,,45.518654,-73.56809,,Orange Line,,Orange,#D06D07,Montreal,Rue Sherbrooke,"John Coape Sherbrooke, Governor General of British North America",14-10-1966
 305,Mont-Royal,O20,,45.524718,-73.58144,,Orange Line,,Orange,#D06D07,Montreal,Avenue du Mont-Royal,Mount Royal,14-10-1966
 306,Laurier,O21,,45.528224,-73.58861,,Orange Line,,Orange,#D06D07,Montreal,Avenue Laurier,"Wilfrid Laurier, Prime Minister of Canada",14-10-1966
@@ -317,8 +317,8 @@ station_id,name,station_code,service_provider_name,latitude,longitude,route_id,r
 315,De La Concorde,O30,,45.560685,-73.70956,,Orange Line,,Orange,#D06D07,Montreal,Boulevard de la Concorde,Place de la Concorde in Paris,28-04-2007
 316,Montmorency,O31,,45.558286,-73.72153,,Orange Line,,Orange,#D06D07,Montreal,Collège Montmorency,"François de Montmorency-Laval, first Roman Catholic Bishop of Quebec and landowner of Île Jésus (Laval)",28-04-2007
 317,Snowdon,B1,,45.486948,-73.62734,,Blue Line,,Blue,#3465B4,Montreal,Rue Snowdon; Snowdon neighbourhood,Name of area's former landowner,4/01/1988 
-318,Côte-des-Neiges,B2,,45.496651,-73.62349,,Blue Line,,Blue,#3465B4,Montreal,Chemin de la Côte-des-Neiges; Côte-des-Neiges neighbourhood,Former Village of Côte-des-Neiges; name Notre-Dame-des-Neiges (Our Lady of the Snows) dates to 18th century,04-01-1988
-319,Université-de-Montréal,B3,,45.503452,-73.61756,,Blue Line,,Blue,#3465B4,Montreal,Université de Montréal,Université de Montréal,04-01-1988
+318,Côte-Des-Neiges,B2,,45.496651,-73.62349,,Blue Line,,Blue,#3465B4,Montreal,Chemin de la Côte-des-Neiges; Côte-des-Neiges neighbourhood,Former Village of Côte-des-Neiges; name Notre-Dame-des-Neiges (Our Lady of the Snows) dates to 18th century,04-01-1988
+319,Université-De-Montréal,B3,,45.503452,-73.61756,,Blue Line,,Blue,#3465B4,Montreal,Université de Montréal,Université de Montréal,04-01-1988
 320,Édouard-Montpetit,B4,,45.510131,-73.61256,,Blue Line,,Blue,#3465B4,Montreal,Boulevard Édouard-Montpetit,"Édouard Montpetit, Quebec lawyer, economist and academic",04-01-1988
 321,Outremont,B5,,45.520087,-73.6149,,Blue Line,,Blue,#3465B4,Montreal,Avenue Outremont; borough of Outremont,"Named for a prominent estate (Outremont means ""other side of the mountain"")",04-01-1988
 322,Acadie,B6,,45.52322,-73.62377,,Blue Line,,Blue,#3465B4,Montreal,Boulevard de l'Acadie,Commemorates bicentennial of the expulsion of the Acadians,28-03-1988
@@ -328,9 +328,9 @@ station_id,name,station_code,service_provider_name,latitude,longitude,route_id,r
 326,Fabre,B10,,45.546727,-73.60792,,Blue Line,,Blue,#3465B4,Montreal,Rue Fabre,"Édouard-Charles Fabre, first Roman Catholic Bishop of Montreal",16-06-1986
 327,D'Iberville,B11,,45.553078,-73.60227,,Blue Line,,Blue,#3465B4,Montreal,Rue d'Iberville,"Pierre Le Moyne d'Iberville, Quebec explorer, founder of Louisiana",16-06-1986
 328,Saint-Michel,B12,,45.559813,-73.59994,,Blue Line,,Blue,#3465B4,Montreal,Boulevard Saint-Michel; neighbourhood of Saint-Michel,Saint Michael; long-standing name,16-06-1986
-329,Berri–UQAM,Y1,,45.515027,-73.56126,,Yellow Line,,Yellow,#F1CE00,Montreal,Rue Berri |Université du Québec à Montréal,"Simon Després dit Le Berry, land owner (1659) |Université du Québec à Montréal",01-04-1967
+329,Berri–Uqam,Y1,,45.515027,-73.56126,,Yellow Line,,Yellow,#F1CE00,Montreal,Rue Berri |Université du Québec à Montréal,"Simon Després dit Le Berry, land owner (1659) |Université du Québec à Montréal",01-04-1967
 330,Jean-Drapeau,Y2,,45.512435,-73.53317,,Yellow Line,,Yellow,#F1CE00,Montreal,Parc Jean-Drapeau,"Jean Drapeau, late ex-mayor of Montreal",01-04-1967
-331,Longueuil–Université-de-Sherbrooke,Y3,,45.524966,-73.52197,,Yellow Line,,Yellow,#F1CE00,Montreal,"City of Longueuil |Université de Sherbrooke, Longueuil campus, in Édifice Saint-Charles","Probably for a town in Normandy |Université de Sherbrooke, Longueuil campus, in Édifice Saint-Charles",01-04-1967
+331,Longueuil–Université-De-Sherbrooke,Y3,,45.524966,-73.52197,,Yellow Line,,Yellow,#F1CE00,Montreal,"City of Longueuil |Université de Sherbrooke, Longueuil campus, in Édifice Saint-Charles","Probably for a town in Normandy |Université de Sherbrooke, Longueuil campus, in Édifice Saint-Charles",01-04-1967
 332,Eunos MRT Station,EW7,,1.319778952,103.9032339,EWL,East West Line,,Green,#009530,Singapore,,,
 333,Chinese Garden MRT Station,EW25,,1.342352821,103.7326244,EWL,East West Line,,Green,#009530,Singapore,,,
 334,Khatib MRT Station,NS14,,1.41738337,103.83298,NSL,North South Line,,Red,#dc241f,Singapore,,,
