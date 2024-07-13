@@ -180,7 +180,7 @@ def run(url,key):
 
     # For these rows, you want to insert into data_supabase
     if not only_local.empty:
-        data, error = supabase.table('station_entrances').insert(only_local.to_dict('records')).execute()
+        data, error = supabase.table('entrances').insert(only_local.to_dict('records')).execute()
     else:
         print("No new rows to be inserted")
 
