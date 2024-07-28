@@ -27,7 +27,7 @@ logger.addHandler(logger_file_handler)
 try:
     #SOME_SECRET = os.environ["SOME_SECRET"]
     url: str = os.environ["SUPABASE_URL"]
-    key: str = os.environ["SUPABASE_KEY"]
+    key: str = os.environ["SUPABASE_SERVICE_KEY"]
 except KeyError:
     #SOME_SECRET = "Token not available!"
     url = "URL not available!"
