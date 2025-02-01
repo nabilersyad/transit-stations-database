@@ -99,11 +99,11 @@ relationship_id,entrance_id,station_name,station_code
 97,5469085631,Stadium Kajang,KG34
 98,5469085630,Stadium Kajang,KG34
 99,5469085632,Stadium Kajang,KG34
-100,5040821684,Bukit Bintang (KG),KG18A
+100,5040821688,Bukit Bintang (KG),KG18A
 101,5040821689,Bukit Bintang (KG),KG18A
-102,5040821685,Bukit Bintang (KG),KG18A
-103,5040821686,Bukit Bintang (KG),KG18A
-104,5040821688,Bukit Bintang (KG),KG18A
+102,5040821684,Bukit Bintang (KG),KG18A
+103,5040821685,Bukit Bintang (KG),KG18A
+104,5040821686,Bukit Bintang (KG),KG18A
 105,12397773617,Awan Besar,SP19
 106,11459346125,Muhibbah,SP20
 107,11459346120,Muhibbah,SP20
@@ -327,7 +327,7 @@ relationship_id,entrance_id,station_name,station_code
 325,10611678881,Putra Permai,PY37
 326,10266244039,Putra Permai,PY37
 327,10611678882,16 Sierra,PY38
-328,10839997852,Cyberjaya Utara–Finexus,PY39
+328,10839997852,Cyberjaya Utara,PY39
 329,10658294223,Cyberjaya City Centre,PY30
 330,10722980582,Putrajaya Sentral (MRT),PY41
 331,5044809585,Tun Razak Exchange (PY),PY23
